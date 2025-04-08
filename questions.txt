@@ -1,0 +1,95 @@
+Science
+        what is the chemical symbol for water ?|O2H20CO2N2|H20
+        Which is the nearest star to earth|Moon,Mercury,Sun,Pluto|Sun
+        Graphite is a metal|True,False|True
+        What is percentage of oxygen gas in the atmosphere?|21%,18%,70%,29%|21%
+        Which is hardest rocks?|Igneous,Sedimentary,metamorphic|metamorphic
+        which colour in VIBGYOR has the highest frequency?|blue,red,green,violet|violet
+        What is the name of phenomena involved in formation of rainbow?|Reflection and refraction,Spillting dispersion refraction,Dispersion Refraction Total reflection,Dispersion Refraction expansion|DispersionRefractionTotal reflection
+        Who was the first person to use the telescope for astronomical observations?|Netwon,Maxwell,Galileo Galilei|Galileo Galilei
+        What is the formula of force ?|F=g.a,F=g.s,F=m.a,F=m.s|F=m.a
+        What is the atomic number of phosphorus?|16,18,20,15|15
+        When light passes through a lensit is called as|reflection,refraction,dispersion,splitting|Refraction
+        What is the formula for density?|Mass/volume,volume/mass,Mass.N/volume|Mass/Volume
+        When heat is releasedthe reaction is known as|Isothermic reaction,Endothermic reaction,Indothermic reaction,Exothermic reaction|Exothermic reaction
+        How many bones does a newborn baby have?|500,209,400,300|300
+        What is called as powerhouse of the cell?|Mitochondria,Hameoglobin,Heart,liver|Mitochondria
+        Formula of Calcium carbonate is|CaO,PS,NaCl,CaCo3|CaCO3
+        What will you do if you have position and want to get velocity?|Differentiation,Integration,Multiplication,All of above|Differentiation
+        Value of 'g' is|9.8,10,9.9,9.7|9.8
+        Which is biggest planet in Solar system|Jupiter,Saturn,Mars,Earth|Jupiter
+        Which is planet where lives exist?|Jupiter,Saturn,Mars,Earth|Earth
+        Which is coolest planet?|Nepture,Mercury,Mars,Earth|Nepture
+
+    
+    History
+        Who is the first person of INDIA|President,Prime Minister,Home Minister,Defence Minister|President
+        When did India got independence|1949,1934,1948,1990|1947
+        Who wrote Bande Mataram|Rabindranath Tagore,Damodar Das,Ravikirti,Bankimchandra chatterjee|Bankimchandra chatterjee
+        When did French Revolution began?|1789,1809,1990,1760|1789
+        What is the name of the ancient Indian Language in which most Hindu religious texts are written?|Hindi,Tamil,Telgu,Sanskrit|Sanskrit
+        In early period of france how did rich people show their power and strength|Hunting,Buying Places,Through banquet and food table|Through banquet and food table
+        Who was the first woman Prime minister of India?|Indira Gandhi,Sarojini Nandu,Kamala Sohonie,Aruna Ali|Indira Gandhi
+        Which Mughal emperor built the taj Mahal in memory of his wife?|Shah Jahan,Akbar,Salim Ali,Mohammad Shah|Shah Jahan
+        For how many days war of Mahabharat occured|190,18,100,20|18
+        Name the famous epic occured in India?|Mahabharat,Ramayana,Mahabharat and Ramayana,None of these|Mahabharat and Ramayana
+        Who is the author of the book 'Discovery of India'?|Jawaharlal Nehru,Rabidranath Tagore,Kali Das,Manmohan Das|Jawaharlal Nehru
+        Which battle in 1757 marked the beginning of British rule in India|Battle of Panipat-I,Battle of buxar,Battle of Panipat-II,Battle of Plassey|Battle of Plassey
+        Who was the founder of the Maurya Empire?|AshokaChanayaka,Maharana Pratap,Chandragupta Maurya|Chandragupta Maurya
+        When did World War-2 ended ?|1947,1980,1978,1945|1945
+        When did World War-1 started?|1980,1890,1919,1918|1918
+        When did Jharkhand separated from Biharyear?|2000,1999,1988,2001|2000
+        What is the famous ancient trade route that connected India with Europe and Asia?|Silk route,Ship route,Car route,Land Route|Silk Route
+        Which Indian leader is known for his role in Salt March|Mahatma Gandhi,Jawaharlal Nehru,Bhagat Singh,Dr.B R Ambedkar|Mahatma Gandhi
+        Who was the first Indian to win the Nobel Prize|Rabindranath Tagore,Mahatma Gandhi,Jawaharlal Nehru,Dr.B R Ambedkar|Rabindranath Tagore
+
+    
+    Geography
+        Name water bodies which is surrounded by India?|Bay of Bangal,Indian Ocean,Arabian Sea,All of these|All of these
+        Which is longest river of India?|Indus,Satluj,Bramaputra,Ganga|Ganga
+        Name longest river of world.|Nile River,Yangtze River,Amazon River,Yeniei River|Nile
+        Name the place from which river Kaveri originates|Eastern Ghats,Western Ghats,Himalaya,Chotta Nagpur Plateau|Western Ghats
+        Tapi is a ____ flowing river.|West,East,North,South|West
+        Capital of Japan is|Tokyo,Hongkong,Malasiya,Singapore|Tokyo
+        Paris is capital of which country|France,New Zealand,America,China|France
+        Name the dam which is situated in Mahandi River|Hirakhund Dam,Bhakra Nangal Dam,Dhurwa Dam,Sita Mata Dam|Hirakhud Dam
+        Name the river in which Bhakra Nangal Dam is constructed|Indus,Ganga,Satluj,Yamuna|Satluj
+        Which continent is the Sahara Dessert located?|Africa,Antatica,Europe,Asia|Africa
+        There are ____ continent in world.|5,7,6,4|7
+        Name largest continent in the world|Asia,America,Austraia,Europe|Asia
+        What is the name of tallest mountain in world?|Mount Fujik,k2,Mount Everest,Himalayas|Mount Everest
+        What is the tallest peak of India?|Mount Fujik,k2,Mount Everest,Himalayas|K2
+        Which country has largest population in world|China,India,Iran,Russia|China
+        What is name of largest country in world?|China,India,Iran,Russia|Russia
+        Where Bhuj Khalifa is located?|China,India,Dubai,Russia|Dubai
+        What is the name of largest ocean in the world?|The Indian Ocean,The Arctic Ocean,The Pacific Ocean,The Antatic Ocean|The Pacific Ocean
+        In which country Great Pyramids of Giza is located|Kenya,Dubai,Egypt,Malasiya|Egypt
+        Which river in India is known as Dakshin Ganga?|Ganga,Narmada,Tapi,Godavari|Godavari
+        Which Indian state is known for its famous backwaters?|Kerala,Tamil Nadu,Maharashtra,Odisha|Kerala
+        Which Indian state is Known for the Suderbans mangrove forest?|Odisha,Gujarat,West Bengal,Assam|West Bengal
+
+   
+    Sports
+        How many players are on a soccer team|12,10,14,11|11
+        The Olymphic Games are held every __ years|4,6,3,2|4
+        Neeraj Chopra belongs to which sports|Kabaddi,Javelin Throw,Badminton,Table Tennis|Javelin Throw
+        Which footballer has the world record of highest goal scorer for a single club?|Ronaldo,Neni,Messi|Messi
+        Thomas Cup and Uber Cup are pretigious trophies of which sports?|Kho-kho,Table Tennis,Lawn Tennis,Badminton|Badminton
+        Which player is named as 'king' in cricket?|Virat Kohli,Yuvraj Singh,Shubham Gill,Jasprit Bumrah|Virat Kohli
+        Name the player of cricket which is titled as 'Captain cool'?|Rohit Sharma,Sachin Tendulkar,M.S Dhoni,Virat Kohli|M.S Dhoni
+        Name the team who wom IPL 2023|CSK,MI,RCB,RR|CSK
+        Who is the Captain of Indian Cricket team of T20 World Cup 2024|Suryakumar Yadav,Ravindra Jadeja,Rohit Sharma,R.Ashwin|Rohit Sharma
+        Which sport is connected to the Ranji Trophy?|Kabaddi,Footballer,Cricket,Table Tennis|Cricket
+        Which country won kabaddi world cup 2023?|India,China,Iran,South Korea|India
+        how many players are there on each team in kabaddi?|9,11,10,7|7
+        How many medals did India won in Summer Olympics held in 2024?|6,7,9,8|6
+        Which country was the host for summer olympics 2024?|India,Australia,Spain,Paris|Paris
+        Which state of India did IPL 2022 final held?|Gujarat,Mumbai,Chennai,Banglore|Gujarat
+        What does the globe in the ICC World Cup Trophy symbolise?|World,All participating nations,Cricket Ball,Unity|Cricket Ball
+        Where are the headquarters of the international Cricket Council?|London,Melbourne,Cape Town,Dubai|Dubai
+        Which is most successful Men's Hockey team at the olympics?|Australia,India,Pakistan,Germany|India
+        When were the first Asian Games held?|1951,1962,1968,1970|1951
+        Which country is the birthplace of the 'Olympic Games'?|Denmark,Italy,Greece,Germany|Greece
+        What is the weight of lenticular disc used in the Discus Throw for women?|1Kg,2kg,3kg,1.6kg|1kg
+        When was the International Hockey Federation founded?|1924,1965,1934,1955|1924
+   
